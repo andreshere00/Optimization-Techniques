@@ -22,3 +22,4 @@ In each folder you can find the following content explained in example exercises
  - C optimization problem.
 5. P5:
  - Support Vector Machine and Orthogonal Regression problems.
+Taller de modelización: Linear Programming problems examples.
